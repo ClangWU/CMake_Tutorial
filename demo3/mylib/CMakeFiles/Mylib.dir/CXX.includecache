@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/clang/Desktop/cmake_demo/demo3/mylib/mymath.cpp
+./mymath.hpp
+/home/clang/Desktop/cmake_demo/demo3/mylib/mymath.hpp
+
+/home/clang/Desktop/cmake_demo/demo3/mylib/mymath.hpp
+
