@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//defined in main.cpp
 double power(double base,double exponent)
 {	
 	int res=base;
